@@ -10,6 +10,9 @@ def multiplikation(a, b):
 
     
 def subtraktion(a,b):
+    """
+    ich subtrahiere
+    """
     return a
 
 
