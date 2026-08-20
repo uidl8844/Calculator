@@ -1,0 +1,9 @@
+[project]
+name = "calculator"
+version = "0.2.0"
+description = "Small command-line calculator"
+requires-python = ">=3.11"
+readme = "readme.md"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
